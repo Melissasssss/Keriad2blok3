@@ -1,0 +1,8 @@
+﻿  ofApp.cpp
+C:\Users\xiaomi\Documents\of_v0.9.7_vs_release\of_v0.9.7_vs_release\addons\ofxSQLiteCpp\libs\SQLiteCpp\include\SQLiteCpp/Column.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xiaomi\documents\of_v0.9.7_vs_release\of_v0.9.7_vs_release\libs\openframeworks\math\ofVec3f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\xiaomi\documents\of_v0.9.7_vs_release\of_v0.9.7_vs_release\libs\openframeworks\math\ofVec2f.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  BevolkingGewest.vcxproj -> C:\Users\xiaomi\Documents\of_v0.9.7_vs_release\of_v0.9.7_vs_release\apps\myApps\BevolkingGewest\bin\BevolkingGewest_debug.exe
+  BevolkingGewest.vcxproj -> bin\BevolkingGewest_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\xiaomi\Documents\of_v0.9.7_vs_release\of_v0.9.7_vs_release\export\vs\Win32\
